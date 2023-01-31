@@ -1,0 +1,12 @@
+.input-user{
+    border: 1px solid red;
+}
+
+.input-score{
+    border: 1px solid green;
+}
+
+table, tr, td, th{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
